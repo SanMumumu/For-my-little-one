@@ -11,3 +11,5 @@
 
 ### 爱的别名是蓝色，一向清新也时而冷淡
 ### blue = because love you everyday
+
+![image](wave.jpg)
